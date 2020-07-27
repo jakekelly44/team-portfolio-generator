@@ -82,7 +82,7 @@ SOFTWARE.
 
 ![Proof of Team Portfolio Generator](doc/team-portfolio-generator-gif.gif "README Generator GIF")
 
-Please use the following link to view a test output of the application's function: [Generated Team Portfolio](dist/index.html "Team Portfolio Generator Test Output")
+Please use the following link to view a test output of the application's function: [Generated Team Portfolio](https://jakekelly44.github.io/team-portfolio-generator/dist/index.html "Team Portfolio Generator Test Output")
 
 Please use the following link to view the application demo video: [Application Demo on Youtube](https://www.youtube.com/watch?v=4m54MU98uwY "Team Portfolio Generator Video")
 
