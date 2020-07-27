@@ -86,9 +86,9 @@ SOFTWARE.
 
 Please use the following link to view a test output of the application's function: [Generated Team Portfolio](dist/index.html "Team Portfolio Generator Test Output")
 
-Please use the following link to view the application demo video: [Application Demo on Youtube](https://www.youtube.com/watch?v=4m54MU98uwY "Team Portfolio Generator Video")
+![Watch the video](doc/youtube-preview.png)](https://www.youtube.com/watch?v=4m54MU98uwY)
 
-![Watch the video](https://img.youtube.com/vi/4m54MU98uwY/maxresdefault.jpg)](https://www.youtube.com/watch?v=4m54MU98uwY)
+Please use the following link to view the application demo video: [Application Demo on Youtube](https://www.youtube.com/watch?v=4m54MU98uwY "Team Portfolio Generator Video")
 
 Please use the following link to download the application demo video: [Application Demo Download](doc/team-portfolio-generator.mp4 "Team Portfolio Generator Video")
 
