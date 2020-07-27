@@ -33,7 +33,9 @@ Run the following commands:
 From the command line, run the following command:   
 `node index.js`
 
-![Proof of Team Portfolio Generator](doc/team-portfolio-generator.png?raw=true "Team Portfolio Generator Still")
+![Proof of Team Portfolio Generator](doc/team-portfolio-generator-still.png?raw=true "Team Portfolio Generator Still")
+
+![Proof of README Generator](doc/readme_gen_still.png?raw=true "README Generator Still")
 
 ## Credits
 
@@ -80,7 +82,7 @@ SOFTWARE.
 
 ## Documentation
 
-![Proof of Team Portfolio Generator](doc/rteam-portfolio-generator-gif.gif "README Generator GIF")
+![Proof of Team Portfolio Generator](doc/team-portfolio-generator-gif.gif "README Generator GIF")
 
 Please use the following link to view a test output of the application's function: [Generated Team Portfolio](dist/index.html "Team Portfolio Generator Test Output")
 
