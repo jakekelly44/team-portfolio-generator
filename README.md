@@ -2,6 +2,8 @@
 
 ## Description 
 
+This is a project which was developed for the University of Arizona Coding Bootcamp course. The application contained within has been designed to take user input from the command line and then generate a team portfolio using HTML5/CSS3 markup. 
+
 
 ## Table of Contents 
 
@@ -16,14 +18,28 @@
 
 ## Installation
 
+Clone the repo onto your local drive   
+Open a command line terminal specific to the repo folder    
+Run the following command and answer all of the prompts:    
+`npm init`   
+Run the following commands:   
+`npm install inquirer`   
+`npm install email-validator`   
+`npm install jest --save-dev`   
+
 
 ## Usage 
 
+From the command line, run the following command:   
+`node index.js`
 
+![Proof of Team Portfolio Generator](doc/team-portfolio-generator.png?raw=true "Team Portfolio Generator Still")
 
 ## Credits
 
 University of Arizona Coding Bootcamp Week 10 Module 10: Object-Oriented Programming
+
+[Bootstrap](https://getbootstrap.com/)
 
 [Shields.io](https://shields.io/)
 
@@ -64,5 +80,12 @@ SOFTWARE.
 
 ## Documentation
 
+![Proof of Team Portfolio Generator](doc/rteam-portfolio-generator-gif.gif "README Generator GIF")
+
+Please use the following link to view a test output of the application's function: [Generated Team Portfolio](dist/index.html "Team Portfolio Generator Test Output")
+
+Please use the following link to view the application demo video: [Application Demo on Youtube](https://www.youtube.com/watch?v=4m54MU98uwY "Team Portfolio Generator Video")
+
+Please use the following link to download the application demo video: [Application Demo Download](doc/team-portfolio-generator.mp4 "Team Portfolio Generator Video")
 
 
