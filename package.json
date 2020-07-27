@@ -1,0 +1,29 @@
+{
+  "name": "uabc-portfolio-gen",
+  "version": "1.0.0",
+  "description": "A portfolio generator for UABC",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakekelly44/team-portfolio-generator.git"
+  },
+  "keywords": [
+    "node",
+    "inquirer",
+    "jest",
+    "jquery"
+  ],
+  "author": "Jake Kelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakekelly44/team-portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/jakekelly44/team-portfolio-generator#readme"
+}
