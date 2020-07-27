@@ -35,8 +35,6 @@ From the command line, run the following command:
 
 ![Proof of Team Portfolio Generator](doc/team-portfolio-generator-still.png?raw=true "Team Portfolio Generator Still")
 
-![Proof of README Generator](doc/readme_gen_still.png?raw=true "README Generator Still")
-
 ## Credits
 
 University of Arizona Coding Bootcamp Week 10 Module 10: Object-Oriented Programming
@@ -85,8 +83,6 @@ SOFTWARE.
 ![Proof of Team Portfolio Generator](doc/team-portfolio-generator-gif.gif "README Generator GIF")
 
 Please use the following link to view a test output of the application's function: [Generated Team Portfolio](dist/index.html "Team Portfolio Generator Test Output")
-
-![Watch the video](doc/youtube-preview.png)](https://www.youtube.com/watch?v=4m54MU98uwY)
 
 Please use the following link to view the application demo video: [Application Demo on Youtube](https://www.youtube.com/watch?v=4m54MU98uwY "Team Portfolio Generator Video")
 
